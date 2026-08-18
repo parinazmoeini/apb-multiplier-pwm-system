@@ -81,6 +81,7 @@ The waveform shows the APB transactions, multiplier result (`PRDATA = 40`), the 
     ├── modelsim_waveform.png
     └── modelsim_waveform1.png
 
+```
 
 ## Tools
 
