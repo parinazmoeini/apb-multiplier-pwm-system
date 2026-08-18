@@ -80,3 +80,20 @@ The waveform shows the APB transactions, multiplier result (`PRDATA = 40`), the 
 └── simulation/
     ├── modelsim_waveform.png
     └── modelsim_waveform1.png
+
+
+## Tools
+
+- SystemVerilog
+- ModelSim
+- APB (Advanced Peripheral Bus)
+
+## Key Concepts
+
+- Memory-mapped peripherals
+- APB read/write transactions
+- Address decoding
+- Serial multiplication
+- PWM generation
+- RTL module integration
+- Testbench-based verification
